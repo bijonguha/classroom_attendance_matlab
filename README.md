@@ -8,7 +8,7 @@
 
 <h3>Prerequisites </h3>
 <ul>
-	<p>Matlab'15 or higher</p>
+	<li>Matlab'15 or higher</li>
 </ul>
 
 
