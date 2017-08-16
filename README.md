@@ -2,10 +2,6 @@
 
 <head>
 <h1> Classroom Attendance System | LUSIP'14 Project </h1>
-<title>MATLAB</title>
-<link rel="stylesheet" type="text/css" href="prettify.css" />
-<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js?lang=matlab"></script>
-<script src="lang-matlab.js"></script>
 </head>
 
 <h2> About </h2>
@@ -19,12 +15,10 @@
 	<li>Matlab'15 or higher</li>
 </ul>
 
-<body onload="prettyPrint();">
-<pre class="prettyprint lang-matlab">
+```
 % example code
 x = [1, 2, 3]';
 fprintf('sum(x^2) = %f\n', sum(x.^2));
-</pre>
-</body>
+```
 
 </html>
