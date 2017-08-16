@@ -18,6 +18,9 @@
 <h2> Running the code </h2>
 <p>Please refer wiki to understand the flow of the code and how it works</p>
 
+<h2> Flowchart </h2>
+<img src="https://github.com/bijonguha/classroom_attendance_matlab/blob/master/flowchart.jpg?raw=true">
+
 <h2> Results Examples</h2>
 <h4>1 . In this case, students are sitting at their own place and no object is kept in un-occupied seats</h4>
 
