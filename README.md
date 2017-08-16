@@ -19,11 +19,11 @@
 <p>Please refer wiki to understand the flow of the code and how it works</p>
 
 <h2> Results Examples</h2>
-<h4>In this case, students are sitting at their own place and no object is kept in un-occupied seats</h4>
+<h4>1 . In this case, students are sitting at their own place and no object is kept in un-occupied seats</h4>
 
 <img src="https://github.com/bijonguha/git-files/blob/master/Screenshot%20(2).png?raw=true" alt="Result 1">
 
-<h4>In this case, students are sitting at their own place and object is kept in some un-occupied seats in an attempt to proxy attendance</h4>
+<h4>2 . In this case, students are sitting at their own place and object is kept in some un-occupied seats in an attempt to proxy attendance</h4>
 <img src="https://github.com/bijonguha/git-files/blob/master/Screenshot%20(3).png?raw=true" alt="Result 2">
 
 </html>
